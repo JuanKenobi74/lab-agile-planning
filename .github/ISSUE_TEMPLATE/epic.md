@@ -9,4 +9,4 @@ assignees: ''
 
 **Epic description**
 
-    - [description text]
+    * [description text]
